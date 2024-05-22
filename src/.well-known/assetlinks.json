@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "com.gclewis.deeplinktest",
+      "package_name": "com.gclewis",
+      "sha256_cert_fingerprints": [
+        "C0:C3:D3:44:78:A3:53:10:F3:51:EE:74:04:9A:58:81:17:BD:9A:2D:31:09:C4:BB:3E:0A:1F:BF:16:83:EF:ED"
+      ]
+    }
+  }
+]
