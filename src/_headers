@@ -1,2 +1,4 @@
 /.well-known/assetlinks.json
   Content-Type: application/json
+/deeplinks.json
+  Content-Type: application/json

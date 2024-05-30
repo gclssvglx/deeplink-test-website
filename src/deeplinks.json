@@ -1,0 +1,11 @@
+[
+  {
+    "123": { "path": "home/services/something", "isAvailable": "true" }
+  },
+  {
+    "234": {
+      "path": "home/nothing/to/see/here",
+      "isAvailable": "false"
+    }
+  }
+]
