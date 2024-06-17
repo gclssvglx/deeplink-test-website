@@ -2,3 +2,5 @@
   Content-Type: application/json
 /deeplinks.json
   Content-Type: application/json
+/onboarding-screens.json
+  Content-Type: application/json
